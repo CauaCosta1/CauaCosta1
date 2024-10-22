@@ -10,8 +10,8 @@ Aprofundando meus estudos em **Ciência de Dados** na Faculdade Anhanguera e sem
 Projetos que envolvam **análise de dados**, **automação**, e desenvolvimento de **dashboards** e **interfaces web** com **Power BI** e **tecnologias front-end**.
 
 ## 📫 Como me contatar
-- Email: [seu-email@example.com]
-- LinkedIn: [seu-perfil-linkedin]
+- Email: [cauavsmcosta1@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/cau%C3%A3-costa-86bba9254/]
   
 ## 😄 Pronomes
 Ele/Dele

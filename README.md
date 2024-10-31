@@ -1,4 +1,4 @@
-#![Foto de Perfil](https://github.com/CauaCosta1/Meu-Curriculo/blob/main/images/FT%20SITE%20OFF.png) 👋 Cauã Costa (@CauaCosta1)
+# ![Foto de Perfil](https://github.com/CauaCosta1/Meu-Curriculo/blob/main/images/FT%20SITE%20OFF.png) 👋 Cauã Costa (@CauaCosta1)
 
 ### 🚀 Sobre
 Desenvolvedor **Front-End** com sólida experiência em **Power BI** e **Python**, especializado em automação e análise de dados. Habilidades avançadas em **HTML**, **CSS** e **JavaScript** permitem o desenvolvimento de interfaces modernas e responsivas. Além disso, possui experiência na criação de aplicativos móveis com **Power Apps** e **Flutter**. Comprometido com a inovação e a busca contínua por soluções que agreguem valor e impulsionem resultados.

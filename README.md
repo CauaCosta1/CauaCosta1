@@ -1,13 +1,13 @@
-# ![Foto de Perfil](https://github.com/CauaCosta1/Meu-Curriculo/blob/main/images/FT%20SITE%20OFF.png) 👋 Cauã Costa (@CauaCosta1)
+# <img src="https://github.com/CauaCosta1/Meu-Curriculo/blob/main/images/FT%20SITE%20OFF.png" alt="Foto de Perfil" width="150"/> 👋 Olá! Eu sou Cauã Costa (@CauaCosta1)
 
 ### 🚀 Sobre
-Desenvolvedor **Front-End** com sólida experiência em **Power BI** e **Python**, especializado em automação e análise de dados. Habilidades avançadas em **HTML**, **CSS** e **JavaScript** permitem o desenvolvimento de interfaces modernas e responsivas. Além disso, possui experiência na criação de aplicativos móveis com **Power Apps** e **Flutter**. Comprometido com a inovação e a busca contínua por soluções que agreguem valor e impulsionem resultados.
+Sou um desenvolvedor **Front-End** com paixão por transformar dados em soluções práticas e visuais. Tenho experiência sólida em **Power BI** e **Python**, focando em automação e análise de dados. Com habilidades avançadas em **HTML**, **CSS** e **JavaScript**, crio interfaces modernas e responsivas que oferecem experiências intuitivas. Além disso, desenvolvo aplicativos móveis com **Power Apps** e **Flutter**. Valorizo projetos que me desafiam a inovar e a oferecer contribuições impactantes.
 
 ### 📚 Em Desenvolvimento
-Atualmente aprimorando conhecimentos em **Ciência de Dados** na Faculdade Anhanguera, com foco em **automação** e **análise de dados** avançada utilizando **Python** e **Machine Learning**.
+Atualmente, estou imerso em **Ciência de Dados** na Faculdade Anhanguera, expandindo meu domínio em **automação** e **análise de dados** avançada com **Python** e explorando o potencial do **Machine Learning** para gerar insights.
 
 ### 🤝 Áreas de Interesse
-Colaboração em projetos de **análise de dados**, **automação**, criação de **dashboards interativos**, e desenvolvimento de **interfaces web** com **Power BI** e tecnologias **Front-End**.
+Adoro colaborar em projetos que envolvam **análise de dados**, **automação**, construção de **dashboards interativos** e desenvolvimento de **interfaces web** com **Power BI** e tecnologias **Front-End**.
 
 ### 📫 Contato
 - **Email**: [cauavsmcosta1@gmail.com](mailto:cauavsmcosta1@gmail.com)
